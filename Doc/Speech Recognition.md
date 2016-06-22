@@ -1,6 +1,7 @@
 # Speech Recognition 语音识别转文字
 
-![image](https://github.com/dsxNiubility/SXDiscoveryIOS10/raw/master/Images/SpeechRecognition.png)<br />
+
+<img src="https://github.com/dsxNiubility/SXDiscoveryIOS10/raw/master/Images/SpeechRecognition.png" alt="Drawing" width="500px" />
 
 ####1.SFSpeechRecognitionResult.h
 
