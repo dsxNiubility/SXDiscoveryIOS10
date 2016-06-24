@@ -1,0 +1,19 @@
+# Adapting to the True Tone Display 真彩色显示
+
+真彩色的显示会根据光感应器来进行自动的调节来达到特定环境下的显示与性能平衡效果。 如果需要这个功能的话需要再info.plist里配置
+
+UIWhitePointAdaptivityStyle
+
+共有五种选择：
+
+1.UIWhitePointAdaptivityStyleStandard 标准
+
+2.UIWhitePointAdaptivityStyleReading 阅读
+
+3.UIWhitePointAdaptivityStylePhoto 图片
+
+4.UIWhitePointAdaptivityStyleVideo 视频
+
+5.UIWhitePointAdaptivityStyleGame 游戏
+
+然后他说的很清楚，如果你是图片处理类的app，那就直接配stylePhoto吧，如果你是阅读类的那就直接配styleReading吧。 这五个形式的显示效果从上往下递减，我理解是说在阅读时给你最好的效果，但如果在游戏时也给那么好的效果会影响性能，就给你一个相对次一点的显示效果让性能更流畅。
