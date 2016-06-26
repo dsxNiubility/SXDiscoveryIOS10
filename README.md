@@ -5,7 +5,7 @@ _对iOS10新增的api进行探索，本意为了解各个新framework里究竟�
 
 
 ###SiriKit 
-###Proactive Suggestions
+##[Proactive Suggestions](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/ProactiveSuggestions.md "系统预先建议")
 ##[Integrating with the Messages App](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/IntegratingwiththeMessagesApp.md "与系统短信 app交互")
 ##[User Notifications](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/UserNotifications.md "用户通知") 
  
