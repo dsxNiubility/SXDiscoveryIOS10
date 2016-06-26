@@ -14,7 +14,7 @@ _对iOS10新增的api进行探索，本意为了解各个新framework里究竟�
 ##[Adapting to the True Tone Display](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/AdaptingtotheTrueToneDisplay.md "真彩色显示")
 
 
-###App Search Enhancements 
+##[App Search Enhancements](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/AppSearchEnhancements.md "真彩色显示") 
 ###Widget Enhancements 
 ###Apple Pay Enhancements 
 ###Security and Privacy Enhancements
