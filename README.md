@@ -15,7 +15,7 @@ _对iOS10新增的api进行探索，本意为了解各个新framework里究竟�
 
 
 ##[App Search Enhancements](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/AppSearchEnhancements.md "真彩色显示") 
-###Widget Enhancements 
+##[Widget Enhancements](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/WidgetEnhancements.md "锁屏部件增强")  
 ###Apple Pay Enhancements 
 ##[Security and Privacy Enhancements](https://github.com/dsxNiubility/SXDiscoveryIOS10/blob/master/Doc/SecurityandPrivacyEnhancements.md "安全性和私密增强") 
 ###CallKit
