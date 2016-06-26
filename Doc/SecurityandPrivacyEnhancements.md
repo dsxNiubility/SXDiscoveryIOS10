@@ -31,3 +31,4 @@
 	NSVoIPUsageDescription
 
 虽然现在还没有iOS10系统的手机，但是我用模拟器试了下，亲测如果我想唤起通讯录但是没有配置NSContactsUsageDescription，刚启动时不会崩溃，但是在唤起操作发生时会直接崩溃。 在info.plist设置之后就可以正常使用了。
+<img src="https://github.com/dsxNiubility/SXDiscoveryIOS10/raw/master/Images/Security.png" alt="Drawing" width="500px" />
