@@ -1,5 +1,8 @@
 # Speech Recognition 语音识别转文字
 
+这个类里面的Api和方法调用都非常清晰，感觉使用起来会非常方便。真的为科大讯飞捏把汗了，科大讯飞的app（录音宝）我看过，都还没有说一段语音能直接转文字的功能，他们是直接把声音文件上传，然后24小时候再发给你转换后的结果...而且一上来就要收费。苹果的这个功能已经做到了系统原生支持，真的厉害。
+
+此功能的头文件入口在#import <Speech/Speech.h>
 
 <img src="https://github.com/dsxNiubility/SXDiscoveryIOS10/raw/master/Images/SpeechRecognition.png" alt="Drawing" width="500px" />
 

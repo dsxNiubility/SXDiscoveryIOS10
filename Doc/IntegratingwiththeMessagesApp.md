@@ -1,5 +1,9 @@
 # Integrating with the Messages App 与系统短信 app交互
 
+对消息额支持很大，可以模拟发消息收消息，发邮件等，提供了UI界面。 也提供了一些额外扩展的api，如表情包区域。WWDC2016上说的各种消息内的新操作在头文件中都能找到Api。
+
+此功能的头文件入口在#import <Messages/Messages.h>
+
 <img src="https://github.com/dsxNiubility/SXDiscoveryIOS10/raw/master/Images/Messages.png" alt="Drawing" width="500px" />
 
 ####1.MSMessagesAppViewController.h
